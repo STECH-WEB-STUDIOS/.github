@@ -1,5 +1,5 @@
-# STech Web Studios
-Welcome to STech Web Studios! We are a dynamic web development company dedicated to creating innovative, user-friendly websites for a diverse range of clients. Whether you're a small business, a startup, or an established organization, we are here to turn your digital vision into reality.
+# STECH Web Studios
+Welcome to STECH Web Studios! We are a dynamic web development company dedicated to creating innovative, user-friendly websites for a diverse range of clients. Whether you're a small business, a startup, or an established organization, we are here to turn your digital vision into reality.
 
 ### 🚀 About Us
 STech Web Studios specializes in:
