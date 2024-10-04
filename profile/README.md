@@ -1,6 +1,6 @@
 # STECH Web Studios
 
-![Screenshot](https://github.com/STECH-WEB-STUDIOS/Divine-Spa/blob/master/assets/img/STECH-WHITE.png)
+![Screenshot](https://github.com/STECH-WEB-STUDIOS/Divine-Spa/blob/master/assets/img/STECH-WHITE-SMALL.png)
 
 Welcome to STECH Web Studios! We are a dynamic web development company dedicated to creating innovative, user-friendly websites for a diverse range of clients. Whether you're a small business, a startup, or an established organization, we are here to turn your digital vision into reality.
 
