@@ -27,8 +27,17 @@ Our mission is to deliver high-quality web solutions that drive results and help
 + Consultation: We’ll schedule a consultation to understand your needs and provide a custom proposal.
 + Kickoff: Once you approve the proposal, we’ll begin the development process and keep you updated every step of the way.
 
+### 🎯 Completed Works  
+Here are some of our completed projects:
++ **De Start** - [Visit Website](https://stech-web-studios.github.io/De-Start/)
++ **Divine Spa** - [Visit Website](https://stech-web-studios.github.io/Divine-Spa/)
++ **De Paul LCC** - [Visit Website](https://stech-web-studios.github.io/De-Paul/)
++ **Portfolio Website** - [Visit Website](https://stech-web-studios.github.io/Portfolio/)
++ **More Projects Coming Soon!**
+
 ### 📬 Contact Us
 + Email: sainsaburajpnc@gmail.com
+
 
 ### 📢 Follow Us
 Stay updated with our latest projects and news by following us on our social media platforms.
