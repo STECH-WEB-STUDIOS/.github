@@ -18,8 +18,8 @@ Our mission is to deliver high-quality web solutions that drive results and help
 + SEO Optimization: Techniques to improve your website’s visibility and ranking.
 
 ### 🛠️ Technologies We Use
-+ Front-end: HTML, CSS, JavaScript, React, Bootstrap
-+ Back-end: PHP, Laravel, MySQL
++ Front-end: HTML, CSS, JavaScript, Tailwind, Bootstrap, React
++ Back-end: Python (Django), PHP, MySQL
 + Tools: Git, XAMPP, Composer
 
 ### 📅 How to Get Started
