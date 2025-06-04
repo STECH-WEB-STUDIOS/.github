@@ -30,7 +30,7 @@ Our mission is to deliver high-quality web solutions that drive results and help
 ### 🎯 Completed Works  
 Here are some of our completed projects:
 + **De Start** - [Visit Website](https://stech-web-studios.github.io/De-Start/)
-+ **Divine Spa** - [Visit Website]([https://devinespaclinic.uk/])
++ **Divine Spa** - [Visit Website](https://devinespaclinic.uk/)
 + **De Paul LCC** - [Visit Website](https://stech-web-studios.github.io/De-Paul/)
 + **Portfolio Website** - [Visit Website](https://stech-web-studios.github.io/sain/)
 + **More Projects Coming Soon!**
